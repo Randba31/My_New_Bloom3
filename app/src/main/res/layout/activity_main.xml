@@ -25,6 +25,7 @@
 
     <Button
         android:id="@+id/button"
+        android:onClick="start"
         android:layout_width="197dp"
         android:layout_height="56dp"
         android:layout_marginStart="126dp"
